@@ -6,15 +6,6 @@ def say_hello(name = "Ruby Programmer")
 
 end
 
-def say_hello(name1)
-  puts ("Hello Kent Beck")
 
-
-  puts "Hello #{name}"
-  
-  return #{name}
-  
-
-end
 
 say_hello
